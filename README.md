@@ -18,6 +18,7 @@ Author of the code:	Pierre-Yves Laffont (www.py-laffont.info), July 2015
 ```
 	
 ## How to use:
+Download the [mtimex](https://www.mathworks.com/matlabcentral/fileexchange/25977-mtimesx-fast-matrix-multiply-with-multi-dimensional-support) package 
 
-run script driver_transfer.m which contains a toy example.
+run script `driver_transfer.m` which contains a toy example.
 	
